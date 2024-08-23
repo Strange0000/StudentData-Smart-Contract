@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/6d0da104-de27-4401-92bf-188cfae31bd1)
 # Student Data Smart Contract
 
 ## Vision
 The **Student Data Smart Contract** aims to create a secure, decentralized system for managing student records on the Ethereum blockchain. This project provides a way for educational institutions, students, and authorized third parties to manage and access student data with transparency and security. By leveraging blockchain technology, we ensure that student data is tamper-proof and controlled directly by the data owner, enabling trust and privacy in data management.
+![image](https://github.com/user-attachments/assets/6d0da104-de27-4401-92bf-188cfae31bd1)
 
 ## Flowchart
 
