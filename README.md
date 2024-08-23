@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/6d0da104-de27-4401-92bf-188cfae31bd1)
 # Student Data Smart Contract
 
 ## Vision
@@ -56,6 +57,10 @@ The **Student Data Smart Contract** aims to create a secure, decentralized syste
 ## Contract Address
 - **Network**: ADU chain
 - **Contract Address**: `0x1780EDFAF1e38B982208b088b34693Da47E95FE6`
+
+![image](https://github.com/user-attachments/assets/09a59cdc-4eeb-4d56-a62c-174fc0723fd3)
+
+
 
 ## Functions Overview
 
